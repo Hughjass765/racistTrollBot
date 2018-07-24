@@ -11,7 +11,7 @@ so i made a discord bot that will make rude and nasty comments and troll you so 
 
 i don't know why, but it makes people happy?!?
 
-if you want to add dialogue to this bot, feel free, i only ask that you try to make the replies: short, whitty (or dumb) and at least slightly offensive to someone
+if you want to add dialogue to this bot, feel free to make `JSON` files with stuff, i only ask that you try to make the replies: short, whitty (or dumb) and at least slightly offensive to someone
 preferrably liberals or conservatives.
 
 thank you.
