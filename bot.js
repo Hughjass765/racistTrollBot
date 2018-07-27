@@ -26,12 +26,22 @@ switch(cmd) {
 case ‘intro’:
 bot.sendMessage({
 to: channelID,
-message: ‘Greetings! Welcome to the server!’
+message: "Greetings! Welcome to the server!"
 });
 case ‘fuck you’:
 bot.sendMessage({
 to: channelID,
-message: ‘go fuck yourself!’ + channelID
+message: "go fuck yourself!" + channelID
+});
+case ‘no fuck you’:
+bot.sendMessage({
+to: channelID,
+message: "go fuck your mom!" + channelID
+});
+case ‘suck my dick’:
+bot.sendMessage({
+to: channelID,
+message: "sorry, i don't use toothpicks" + channelID
 });
 break;
 }
