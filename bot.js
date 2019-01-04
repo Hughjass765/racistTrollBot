@@ -20,7 +20,7 @@ bot.on(‘message’, function (user, userID, channelID, message, evt) {
 if (message.substring(0, 1) == ‘!rtb’) {
 var args = message.substring(1).split(‘ ‘);
 var cmd = args[0];
-
+// mean responses
 args = args.splice(1);
 switch(cmd) {
 case ‘intro’:
